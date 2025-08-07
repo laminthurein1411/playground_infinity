@@ -7,7 +7,7 @@
         <EditTextPreference
             android:key="reddit_api_key"
             android:title="Reddit API Key"
-            android:summary="Enter your Reddit API Key"
+            android:summary="tRz88qZg4a5cun3JQ4GRFQ"
             android:persistent="true"
             android:singleLine="true"
             app:useSimpleSummaryProvider="true" />
@@ -15,7 +15,7 @@
         <EditTextPreference
             android:key="giphy_api_key"
             android:title="Giphy API Key"
-            android:summary="Enter your Giphy API Key"
+            android:summary="bj7Y1a4hgPlMBfKB8C02klcgyHHFJdwL"
             android:persistent="true"
             android:singleLine="true"
             app:useSimpleSummaryProvider="true" />
@@ -31,7 +31,7 @@
         <EditTextPreference
             android:key="gemini_key"
             android:title="Gemini Api"
-            android:summary="Enter your Gemmini Api key"
+            android:summary="AIzaSyCwsq5tcAmtrEQeH_FRXr57QYSEM7OBIVA"
             android:persistent="true"
             android:singleLine="true"
             app:useSimpleSummaryProvider="true" />
